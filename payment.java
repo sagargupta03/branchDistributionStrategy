@@ -18,3 +18,5 @@ developer enahnced UI of payment frontedn
 additional comments
 
 we are now willing for 3.0 release with payments advanced feature so merged all 
+
+new display feature
